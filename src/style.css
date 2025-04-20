@@ -1,0 +1,199 @@
+/* Reset */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/* write your CSS here */
+
+/* Body Style */
+body {
+  height: 100%;
+  background-color: #cac0ea;
+  font-family: Arial, sans-serif;
+  color: #f1f1f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+/* Container */
+.container {
+  width: 100%;
+  max-width: 900px;
+}
+
+/* Overlay (Modal Background) */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #d3cbee;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999;
+}
+
+/* Hide Class */
+.hidden {
+  display: none;
+}
+
+/* Modal Box */
+.modal {
+  position: relative;
+  background-color: #0d1b2a;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.6);
+  text-align: center;
+  width: 100%;
+  max-width: 500px;
+}
+
+/* Modal Heading */
+.modal h2 {
+  margin-bottom: 20px;
+  font-weight: 500;
+}
+
+
+/* Ratings */
+.ratings {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap; 
+  overflow-x: auto;   
+  gap: 8px;
+  margin-bottom: 10px;
+  padding-bottom: 5px;
+}
+
+/* Rating Buttons */
+
+.ratings {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;    
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+/* Rating Buttons */
+.ratings-button {
+  flex: 1;
+  background-color: #1b263b;
+  color: #fff;
+  border: 1px solid #aaa;
+  padding: 12px 0;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  font-size: 16px;
+  text-align: center;
+}
+
+
+
+.ratings-button:hover,
+.ratings-button.selected {
+  background-color: #584383;
+}
+
+/* Rating Labels */
+.ratings-label {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+  margin-bottom: 40px;
+  font-size: 14px;
+  color: #aaa;
+}
+
+/* Modal Buttons */
+.modal-buttons {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.modal-buttons button {
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+  
+}
+
+/* Submit */
+.submit {
+  background-color: #584383;
+  color: #fff;
+  border: none;
+}
+
+.submit:hover {
+  background-color: #584383;
+}
+
+/* Cancel */
+.cancel {
+  background-color: #0d1b2a;
+  color: #fff;
+  border: 2px solid #584383;
+  transition: all 0.3s ease;
+}
+
+.cancel:hover {
+  background-color: #584383;
+}
+
+/* Close Icon */
+.close-icon {
+  position: absolute;
+  top: 20px;
+  right: 20px;        
+  color: #aaa;
+  font-size: 20px;
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.close-icon:hover {
+  color: #fff;
+}
+
+/* Trigger Button */
+.open-modal-btn {
+  background-color: #415a77;
+  color: white;
+  padding: 14px 28px;
+  border-radius: 6px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin-bottom: 40px;
+}
+
+.open-modal-btn:hover {
+  background-color:#584383;
+}
+
+/* Responsiveness*/
+@media (max-width: 500px) {
+  .ratings {
+    flex-wrap: wrap;    
+  }
+
+  .ratings-button {
+    flex: 1 0 18%;      
+    margin-bottom: 6px;
+  }
+}

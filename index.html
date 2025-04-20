@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="stylesheet" href="src/style.css" />
+    <!-- Font awesome cdn link -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+
+    <title>Feedback Modal Component - FrontendPro Challenge</title>
+  </head>
+
+  <body>
+    <!-- Write your HTML here -->
+<!-- container class that holds all the components of our web page -->
+    <div class="container">
+      <!-- Give feedback button -->
+      <button id="openModalButton" class="open-modal-btn">Give Us Your Feedback</button>
+    
+  
+      <div id="modalOverlay" class="overlay hidden">
+        <div id="feedbackModal" class="modal">
+          <i class="fa-solid fa-xmark close-icon" id="closeIcon"></i>
+    
+          <h2>How likely are you to recommend FrontendPro to someone you know?</h2>
+    <!-- a rating scale -->
+          <div class="ratings">
+            <button class="ratings-button">1</button>
+            <button class="ratings-button">2</button>
+            <button class="ratings-button">3</button>
+            <button class="ratings-button">4</button>
+            <button class="ratings-button">5</button>
+            <button class="ratings-button">6</button>
+            <button class="ratings-button">7</button>
+            <button class="ratings-button">8</button>
+            <button class="ratings-button">9</button>
+            <button class="ratings-button">10</button>
+          </div>
+    
+          <div class="ratings-label">
+            <span>Not likely at all</span>
+            <span>Extremely likely</span>
+          </div>
+    
+          <div class="modal-buttons">
+            <button class="cancel" id="cancelButton">Cancel</button>
+            <button class="submit" id="submitButton">Submit</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+
+    <script src="src/script.js">
+      
+    </script>
+  </body>
+</html>
