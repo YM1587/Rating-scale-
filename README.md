@@ -2,10 +2,9 @@
 
 This repository contains two different implementations of a simple rating scale UI component:
 
-[Rating Scale UI - Built with Bolt]
-+--------------------------------------------+
+-------------------------+
 |  🟊🟊🟊🟊🟊      Built by humans & AI 🤖     |
-+--------------------------------------------+
++------------------------+
 
 ## 📁 Project Versions
 
