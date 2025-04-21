@@ -1,12 +1,11 @@
 #  Rating Scale Projects
 
 This repository contains two different implementations of a simple rating scale UI component:
-```bash
+
 [Rating Scale UI - Built with Bolt]
 +--------------------------------------------+
 |  🟊🟊🟊🟊🟊      Built by humans & AI 🤖     |
 +--------------------------------------------+
-```
 
 ## 📁 Project Versions
 
