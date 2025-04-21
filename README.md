@@ -37,8 +37,8 @@ Bolt handled:
 - Even the README content (you're reading it 👀)
 
 This showcases the power of modern dev tools — both human and AI — working together.
-[![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt⚡-purple?style=for-the-badge)](https://bolt.ai)
-# ⭐️ Rating Scale UI – Two Implementations, One Repo
 
-[![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt⚡-purple?style=for-the-badge)](https://bolt.ai)
+#  Rating Scale UI – Two Implementations Tech Stack
+
+[![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt-purple?style=for-the-badge)](https://bolt.ai)
 
