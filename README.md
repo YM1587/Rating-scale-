@@ -38,7 +38,5 @@ Bolt handled:
 
 This showcases the power of modern dev tools — both human and AI — working together.
 
-#  Rating Scale UI – Two Implementations Tech Stack
-
 [![Built with Bolt](https://img.shields.io/badge/Built%20with-Bolt-purple?style=for-the-badge)](https://bolt.ai)
 
