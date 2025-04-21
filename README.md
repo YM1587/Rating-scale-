@@ -25,6 +25,7 @@ A modern version using React for component-based structure and Tailwind CSS for 
 ```bash
 npm install
 npm run dev
+```
 ## 🤖 Built with Bolt
 
 The React + Tailwind CSS version of this project was built **entirely using [Bolt](https://bolt.ai)** — an AI agent for software development. No manual coding, just conversations and instructions.
