@@ -25,3 +25,18 @@ handle the open/close functionality of a modal. You're going to love it!
 5. The modal should get closed by clicking on a “Cancel” button or by clicking outside of the modal.
 6. The component should be responsive and display correctly on different screen sizes.
 7. Make this landing page look as close to the design as possible.
+## Copied from bolt 
+``
+I'll help you create a beautiful and functional Feedback Modal Component that meets all the requirements. Let's build this with React and Tailwind CSS.
+
+<details>
+  <summary>Create Feedback Modal Component</summary>
+
+  ~~create src/components/FeedbackModal.tsx
+  ~~create src/App.tsx
+  ~~Start application
+  ```
+    npm run dev
+  ```
+
+</details>
