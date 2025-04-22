@@ -1,14 +1,14 @@
-Developer:Bolt AI
-## Challenge Title:Feedback Modal Component
+### Developer:Bolt AI
+### Challenge Title:Feedback Modal Component
 
-## Challenge Description
+###  Challenge Description
 In this frontend challenge, you'll build a Feedback Modal Component. 
 This challenge is perfect for you if you've been learning CSS and JavaScript and are looking to practice
 what you've learned by building something new and beginner-friendly.
 
-## Difficulty Level:Beginner
+### Difficulty Level: Beginner
 
-## Tags:FRONTEND
+### Tags: FRONTEND
 
 ## Learning
 In this frontend challenge, you'll learn how to build interactive UI components using CSS and JavaScript. 
@@ -59,30 +59,21 @@ I've created a beautiful and functional Feedback Modal Component that meets all 
  7. The design is modern and polished with:
     
     Smooth animations
-    
     Beautiful transitions
-    
     Clean typography
-    
     Proper spacing
-    
     Clear visual hierarchy
     
 ## Key features:
 
 Animated entrance/exit transitions
-
 Backdrop blur effect
-
 Keyboard accessibility (Escape to close)
-
 Disabled submit button until rating is selected
-
 Visual feedback for selected rating
-
 Thank you message after submission
-
 Clean, modern UI with proper spacing and typography
+
 ## It even deployed the feedback model after development
 I've initiated the deployment process. Let me check the deployment status for you...
 
@@ -90,3 +81,5 @@ Your site has been successfully deployed! You can view it at: https://elegant-cr
 ## It gives you the chance to claim the ownership of the developed application
 To transfer this Netlify project to your own account, you can use  this claim URL:
 https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ1MTIwMjIxOjQwNjI1NzUiLCJpYXQiOjE3NDQyNjQzNzJ9.BkU0umyMLalBYgtS8QudhAUiBBh_rrdXqb6PrVqDRKQ
+## DISCLAIMER.
+!!DO NOT CLAIM THE OWNERSHIP. tHE LINK I ADDED WAS JUST TO LET FELLOW DEVELOPERS KNOW HOW MUCH BOLT CAN DO.
