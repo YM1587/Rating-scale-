@@ -79,8 +79,8 @@ I've initiated the deployment process. Let me check the deployment status for yo
 
 Your site has been successfully deployed! You can view it at: https://elegant-croquembouche-0524a9.netlify.app
 ## It gives you the chance to claim the ownership of the developed application
-To transfer this Netlify project to your own account, you can use  this claim URL:
-https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.**gggg f**eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ1MTIwMjIxOjQwNjI1NzUiLCJpYXQiOjE3NDQyNjQzNzJ9.BkU0umyMLalBYgtS8QudhAUiBBh_rrdXqb6PrVqDRKQ
+To transfer this Netlify project to your own account, you can use  this claim URL:(_*****+++++++******)
+
 ## DISCLAIMER.
 <details style="border: 1px solid #ccc; border-radius: 6px; padding: 10px; background-color: #fff3cd;">
   <summary><strong>⚠️ Disclaimer (Click to Expand)</strong></summary>
