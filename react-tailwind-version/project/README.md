@@ -1,16 +1,14 @@
-## Challenge Title
-## Feedback Modal Component
+Developer:Bolt AI
+## Challenge Title:Feedback Modal Component
 
 ## Challenge Description
 In this frontend challenge, you'll build a Feedback Modal Component. 
 This challenge is perfect for you if you've been learning CSS and JavaScript and are looking to practice
 what you've learned by building something new and beginner-friendly.
 
-## Difficulty Level
-Beginner
+## Difficulty Level:Beginner
 
-## Tags
-FRONTEND
+## Tags:FRONTEND
 
 ## Learning
 In this frontend challenge, you'll learn how to build interactive UI components using CSS and JavaScript. 
@@ -41,28 +39,47 @@ I'll help you create a beautiful and functional Feedback Modal Component that me
 
 </details>
 I've created a beautiful and functional Feedback Modal Component that meets all the requirements:
+
 1. The modal is triggered by a "Give Feedback" button
+ 
 2. It includes a rating scale from 1 to 10
+ 
 3. Users can select a rating by clicking on numbers
+ 
 4. The modal closes on submission
+ 
 5. Users can close the modal by:
+   
      a. Clicking the Cancel button
      b. Clicking the X icon
      c. Clicking outside the modal
      d. Pressing the Escape key
  6. The component is fully responsive
+    
  7. The design is modern and polished with:
-Smooth animations
-Beautiful transitions
-Clean typography
-Proper spacing
-Clear visual hierarchy
+    
+    Smooth animations
+    
+    Beautiful transitions
+    
+    Clean typography
+    
+    Proper spacing
+    
+    Clear visual hierarchy
+    
 ## Key features:
 
 Animated entrance/exit transitions
+
 Backdrop blur effect
+
 Keyboard accessibility (Escape to close)
+
 Disabled submit button until rating is selected
+
 Visual feedback for selected rating
+
 Thank you message after submission
+
 Clean, modern UI with proper spacing and typography
