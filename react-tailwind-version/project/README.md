@@ -80,6 +80,14 @@ I've initiated the deployment process. Let me check the deployment status for yo
 Your site has been successfully deployed! You can view it at: https://elegant-croquembouche-0524a9.netlify.app
 ## It gives you the chance to claim the ownership of the developed application
 To transfer this Netlify project to your own account, you can use  this claim URL:
-https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ1MTIwMjIxOjQwNjI1NzUiLCJpYXQiOjE3NDQyNjQzNzJ9.BkU0umyMLalBYgtS8QudhAUiBBh_rrdXqb6PrVqDRKQ
+https://app.netlify.com/claim?utm_source=bolt#eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.**gggg f**eyJjbGllbnRfaWQiOiI1aDZmZEstVktNTXZuRjNiRlZUaktfU2JKVGgzNlNfMjJheTlpTHhVX0Q4Iiwic2Vzc2lvbl9pZCI6IjQ1MTIwMjIxOjQwNjI1NzUiLCJpYXQiOjE3NDQyNjQzNzJ9.BkU0umyMLalBYgtS8QudhAUiBBh_rrdXqb6PrVqDRKQ
 ## DISCLAIMER.
-!!DO NOT CLAIM THE OWNERSHIP. tHE LINK I ADDED WAS JUST TO LET FELLOW DEVELOPERS KNOW HOW MUCH BOLT CAN DO.
+<details style="border: 1px solid #ccc; border-radius: 6px; padding: 10px; background-color: #fff3cd;">
+  <summary><strong>⚠️ Disclaimer (Click to Expand)</strong></summary>
+  <br>
+  The React + Tailwind CSS version of this project was generated using <a href="https://bolt.ai" target="_blank">Bolt</a>, an AI software agent.
+
+  While the code works and follows standard practices, it may not perfectly match manual, human-crafted patterns in every scenario.
+
+  Please review and test the code thoroughly before using it in any production environment.
+</details>
